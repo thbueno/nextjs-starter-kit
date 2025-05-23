@@ -24,6 +24,7 @@
     "@neondatabase/serverless": "^0.10.4",
     "@next/mdx": "^15.1.6",
     "@opentelemetry/api": "^1.9.0",
+    "@polar-sh/nextjs": "^0.4.0",
     "@polar-sh/sdk": "^0.22.2",
     "@radix-ui/react-accordion": "^1.1.2",
     "@radix-ui/react-avatar": "^1.0.4",
@@ -68,6 +69,7 @@
     "dotenv": "^16.4.7",
     "drizzle-orm": "^0.38.0",
     "encoding": "^0.1.13",
+    "framer-motion": "^12.12.2",
     "fs-extra": "^11.2.0",
     "geist": "^1.3.0",
     "html-react-parser": "^5.1.12",
@@ -106,5 +108,6 @@
     "postcss": "latest",
     "tailwindcss": "^3.3.5",
     "typescript": "latest"
-  }
+  },
+  "packageManager": "pnpm@10.9.0+sha512.0486e394640d3c1fb3c9d43d49cf92879ff74f8516959c235308f5a8f62e2e19528a65cdc2a3058f587cde71eba3d5b56327c8c33a97e4c4051ca48a10ca2d5f"
 }
